@@ -1,22 +1,22 @@
 [
   {
     "name": "EalSuite",
-    "url": "https://www.ealsuite.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.ealsuite.com.ico",
+    "url": "https://ealsuite.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ealsuite.com.ico",
     "slug": "eal-suite",
-    "status": "down",
-    "uptime": "7.64%",
-    "uptimeDay": "7.64%",
-    "uptimeWeek": "7.64%",
-    "uptimeMonth": "7.64%",
-    "uptimeYear": "7.64%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.98%",
+    "uptimeDay": "2.98%",
+    "uptimeWeek": "2.98%",
+    "uptimeMonth": "2.98%",
+    "uptimeYear": "2.98%",
+    "time": 1602,
+    "timeDay": 1602,
+    "timeWeek": 1602,
+    "timeMonth": 1602,
+    "timeYear": 1602,
     "dailyMinutesDown": {
-      "2023-09-11": 0
+      "2023-09-11": 4
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2216,
-    "timeDay": 2216,
-    "timeWeek": 2216,
-    "timeMonth": 2216,
-    "timeYear": 2216,
+    "time": 2003,
+    "timeDay": 2003,
+    "timeWeek": 2003,
+    "timeMonth": 2003,
+    "timeYear": 2003,
     "dailyMinutesDown": {}
   }
 ]
