@@ -19,5 +19,7 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://ealsuite.com    
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
