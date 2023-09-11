@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: EalSuite
-    url: https://www.ealsuite.com
+    url: https://ealsuite.com
     maxResponseTime: 5000
   - name: Documentation Website
     url: https://ealsuite.com/documentation
