@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ealsuite.com.ico",
     "slug": "eal-suite",
     "status": "up",
-    "uptime": "2.98%",
-    "uptimeDay": "2.98%",
-    "uptimeWeek": "2.98%",
-    "uptimeMonth": "2.98%",
-    "uptimeYear": "2.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1602,
     "timeDay": 1602,
     "timeWeek": 1602,
     "timeMonth": 1602,
     "timeYear": 1602,
-    "dailyMinutesDown": {
-      "2023-09-11": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation Website",
