@@ -22,17 +22,19 @@
     "url": "https://ealsuite.com/documentation",
     "icon": "https://icons.duckduckgo.com/ip3/ealsuite.com.ico",
     "slug": "documentation-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1139,
-    "timeDay": 971,
-    "timeWeek": 1039,
-    "timeMonth": 1088,
-    "timeYear": 1139,
-    "dailyMinutesDown": {}
+    "time": 1388,
+    "timeDay": 5667,
+    "timeWeek": 2204,
+    "timeMonth": 1387,
+    "timeYear": 1388,
+    "dailyMinutesDown": {
+      "2023-10-13": 0
+    }
   }
 ]
