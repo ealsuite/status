@@ -4,18 +4,20 @@
     "url": "https://ealsuite.com",
     "icon": "https://icons.duckduckgo.com/ip3/ealsuite.com.ico",
     "slug": "eal-suite",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1569,
-    "timeDay": 1480,
-    "timeWeek": 1450,
-    "timeMonth": 1507,
-    "timeYear": 1562,
-    "dailyMinutesDown": {}
+    "time": 1585,
+    "timeDay": 4836,
+    "timeWeek": 2292,
+    "timeMonth": 1723,
+    "timeYear": 1580,
+    "dailyMinutesDown": {
+      "2024-10-25": 0
+    }
   },
   {
     "name": "Documentation Website",
