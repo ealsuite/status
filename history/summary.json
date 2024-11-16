@@ -6,15 +6,15 @@
     "slug": "eal-suite",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.81%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1583,
-    "timeDay": 1614,
+    "timeDay": 1500,
     "timeWeek": 1584,
-    "timeMonth": 1725,
-    "timeYear": 1581,
+    "timeMonth": 1728,
+    "timeYear": 1580,
     "dailyMinutesDown": {
       "2024-11-14": 32
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 931,
-    "timeDay": 747,
-    "timeWeek": 822,
-    "timeMonth": 812,
+    "time": 930,
+    "timeDay": 823,
+    "timeWeek": 821,
+    "timeMonth": 814,
     "timeYear": 877,
     "dailyMinutesDown": {}
   }
