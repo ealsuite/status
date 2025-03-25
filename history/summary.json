@@ -4,10 +4,10 @@
     "url": "https://ealsuite.com",
     "icon": "https://icons.duckduckgo.com/ip3/ealsuite.com.ico",
     "slug": "eal-suite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1567,
@@ -16,6 +16,7 @@
     "timeMonth": 1518,
     "timeYear": 1564,
     "dailyMinutesDown": {
+      "2025-03-25": 1,
       "2024-11-14": 32
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://ealsuite.com/documentation",
     "icon": "https://icons.duckduckgo.com/ip3/ealsuite.com.ico",
     "slug": "documentation-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +36,8 @@
     "timeWeek": 782,
     "timeMonth": 795,
     "timeYear": 860,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-25": 0
+    }
   }
 ]
