@@ -6,7 +6,7 @@ sites:
     url: https://ealsuite.com
     maxResponseTime: 5000
   - name: Documentation Website
-    url: https://ealsuite.com/documentation
+    url: https://oldwebsite.ealsuite.com/documentation
     maxResponseTime: 5000    
 
 status-website:
