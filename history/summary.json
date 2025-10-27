@@ -4,18 +4,19 @@
     "url": "https://ealsuite.com",
     "icon": "https://icons.duckduckgo.com/ip3/ealsuite.com.ico",
     "slug": "eal-suite",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.32%",
     "time": 1891,
     "timeDay": 1868,
     "timeWeek": 1992,
     "timeMonth": 2957,
     "timeYear": 1918,
     "dailyMinutesDown": {
+      "2025-10-27": 0,
       "2025-10-13": 25,
       "2025-10-11": 15,
       "2025-10-10": 42,
@@ -67,8 +68,7 @@
       "2025-04-01": 97,
       "2025-03-31": 71,
       "2025-03-30": 39,
-      "2025-03-29": 732,
-      "2025-03-28": 23
+      "2025-03-29": 402
     }
   },
   {
