@@ -1,7 +1,7 @@
 url: https://ealsuite.com
-status: up
+status: degraded
 code: 200
-responseTime: 2921
-lastUpdated: 2025-12-13T11:19:26.650Z
+responseTime: 15474
+lastUpdated: 2025-12-13T13:33:44.703Z
 startTime: 2023-09-11T08:59:40.614Z
 generator: Upptime <https://github.com/upptime/upptime>
