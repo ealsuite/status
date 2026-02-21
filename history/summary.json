@@ -4,17 +4,17 @@
     "url": "https://ealsuite.com",
     "icon": "https://icons.duckduckgo.com/ip3/ealsuite.com.ico",
     "slug": "eal-suite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "92.95%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "93.12%",
     "uptimeMonth": "94.47%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 2125,
-    "timeDay": 2069,
-    "timeWeek": 1905,
-    "timeMonth": 1940,
-    "timeYear": 2161,
+    "timeDay": 1904,
+    "timeWeek": 1909,
+    "timeMonth": 1937,
+    "timeYear": 2160,
     "dailyMinutesDown": {
       "2026-02-21": 63,
       "2026-02-20": 16,
@@ -48,7 +48,7 @@
       "2026-01-21": 55,
       "2026-01-20": 79,
       "2026-01-19": 1,
-      "2026-01-18": 130
+      "2026-01-18": 93
     }
   },
   {
@@ -56,17 +56,17 @@
     "url": "https://oldwebsite.ealsuite.com/documentation",
     "icon": "https://icons.duckduckgo.com/ip3/oldwebsite.ealsuite.com.ico",
     "slug": "documentation-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "92.95%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "93.11%",
     "uptimeMonth": "94.51%",
-    "uptimeYear": "99.50%",
-    "time": 1759,
-    "timeDay": 1730,
-    "timeWeek": 1703,
-    "timeMonth": 1756,
-    "timeYear": 1839,
+    "uptimeYear": "99.51%",
+    "time": 1760,
+    "timeDay": 1614,
+    "timeWeek": 1701,
+    "timeMonth": 1754,
+    "timeYear": 1838,
     "dailyMinutesDown": {
       "2026-02-21": 62,
       "2026-02-20": 16,
@@ -100,8 +100,7 @@
       "2026-01-21": 55,
       "2026-01-20": 79,
       "2026-01-19": 1,
-      "2026-01-18": 106,
-      "2026-01-17": 22
+      "2026-01-18": 106
     }
   }
 ]
