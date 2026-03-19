@@ -6,17 +6,17 @@
     "slug": "eal-suite",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "90.57%",
-    "uptimeWeek": "93.13%",
-    "uptimeMonth": "94.09%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "93.20%",
+    "uptimeMonth": "94.10%",
     "uptimeYear": "99.47%",
     "time": 2107,
-    "timeDay": 1950,
-    "timeWeek": 1922,
+    "timeDay": 1949,
+    "timeWeek": 1912,
     "timeMonth": 1979,
     "timeYear": 2148,
     "dailyMinutesDown": {
-      "2026-03-18": 120,
+      "2026-03-18": 113,
       "2026-03-17": 68,
       "2026-03-16": 204,
       "2026-03-15": 115,
@@ -45,7 +45,7 @@
       "2026-02-20": 16,
       "2026-02-19": 41,
       "2026-02-18": 179,
-      "2026-02-17": 17
+      "2026-02-17": 41
     }
   },
   {
@@ -55,17 +55,17 @@
     "slug": "documentation-website",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "90.59%",
-    "uptimeWeek": "93.14%",
-    "uptimeMonth": "94.06%",
+    "uptimeDay": "92.23%",
+    "uptimeWeek": "93.20%",
+    "uptimeMonth": "94.07%",
     "uptimeYear": "99.47%",
     "time": 1790,
-    "timeDay": 1672,
-    "timeWeek": 1698,
+    "timeDay": 1698,
+    "timeWeek": 1689,
     "timeMonth": 1760,
     "timeYear": 1842,
     "dailyMinutesDown": {
-      "2026-03-18": 120,
+      "2026-03-18": 113,
       "2026-03-17": 67,
       "2026-03-16": 204,
       "2026-03-15": 114,
@@ -93,7 +93,8 @@
       "2026-02-21": 79,
       "2026-02-20": 16,
       "2026-02-19": 41,
-      "2026-02-18": 179
+      "2026-02-18": 179,
+      "2026-02-17": 17
     }
   }
 ]
